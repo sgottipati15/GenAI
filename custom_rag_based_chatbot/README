@@ -6,4 +6,4 @@ matching techniques, the chatbot successfully answered questions about player st
 
 To execute this code, ensure you update the api_key in the CustomChatbot.ipynb file (in the first section) 
 
-The necessary data file cricket_data.csv has already been downloaded from Kaggle and is included here. 
+The necessary data file cricket_data.csv has already been downloaded from internet and is included here. 
